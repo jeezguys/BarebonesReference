@@ -1,7 +1,7 @@
 # HTML Barebones Guide
 
 ## Document
-- <!DOCTYPE html> — HTML5 doctype.
+- ```<!DOCTYPE html> — HTML5 doctype.
 - <html lang="en"> … </html> — Root element.
 - <head> … </head> — Metadata.
 - <meta charset="utf-8"> — Character encoding.
