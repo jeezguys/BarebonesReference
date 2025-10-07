@@ -125,17 +125,17 @@
 - data-* (custom data)
 
 ## Minimal Boilerplate
-\<!DOCTYPE html>
-\<html lang="en">
-\<head>
-  \<meta charset="utf-8">
-  \<meta name="viewport" content="width=device-width, initial-scale=1">
-  \<title>Title</title>
-\</head>
-\<body>
-  \<main>
-    \<h1>Hello</h1>
-    \<p>World</p>
-  \</main>
-\</body>
+\<!DOCTYPE html><br />
+\<html lang="en"><br />
+\<head><br />
+&nbsp;&nbsp;\<meta charset="utf-8"><br />
+&nbsp;&nbsp;\<meta name="viewport" content="width=device-width, initial-scale=1"><br />
+&nbsp;&nbsp;\<title>Title</title><br />
+\</head><br />
+\<body><br />
+&nbsp;&nbsp;\<main><br />
+&nbsp;&nbsp;&nbsp;&nbsp;\<h1>Hello</h1><br />
+&nbsp;&nbsp;&nbsp;&nbsp;\<p>World</p><br />
+&nbsp;&nbsp;&nbsp;&nbsp;\</main><br />
+\</body><br />
 \</html>
