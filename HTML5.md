@@ -1,9 +1,9 @@
 # HTML Barebones Guide
 
 ## Document
-- ```<!DOCTYPE html> — HTML5 doctype.
-- <html lang="en"> … </html> — Root element.
-- <head> … </head> — Metadata.
+- \<!DOCTYPE html> — HTML5 doctype.
+- \<html lang="en"> … \</html> — Root element.
+- \<head> … \</head> — Metadata.
 - <meta charset="utf-8"> — Character encoding.
 - <meta name="viewport" content="width=device-width, initial-scale=1"> — Responsive viewport.
 - <title> … </title> — Page title.
